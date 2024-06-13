@@ -1,5 +1,8 @@
 # CyberQuest: The Hacker's Journey
 
+**WIP: Very early stages v0.1**
+
+
 Welcome to **CyberQuest: The Hacker's Journey** – an immersive and captivating hacking simulation game where you step into the shoes of a skilled hacker navigating the treacherous terrain of the dark web. Take on missions, interact with NPCs, explore the underground market, and test your hacking skills in various mini-games. Are you ready to embark on this thrilling journey?
 
 ## Table of Contents
