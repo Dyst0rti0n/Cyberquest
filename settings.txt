@@ -1,0 +1,4 @@
+Volume: 50
+ScreenWidth: 800
+ScreenHeight: 600
+ControlScheme: Arrow
