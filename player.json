@@ -1,0 +1,14 @@
+{
+  "Name": "Dystortion",
+  "CurrentLevel": 1,
+  "Score": 140,
+  "Money": 0,
+  "Reputation": 100,
+  "Skills": {
+    "Brute Force Attack": true,
+    "Phishing Attack": true,
+    "Social Engineering": true,
+    "Zero-Day Exploit": false
+  },
+  "Level": 0
+}
